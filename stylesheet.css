@@ -1,0 +1,30 @@
+body {
+    background-image: url('img/backgroundmain.svg');
+    background-size: cover;
+    margin: 0px;
+    height: 5000px;
+  }
+
+.bigearth {
+    background-image: url('img/bigearth.svg');
+    width: 3200px;
+    height: 3200px;
+    background-repeat: no-repeat;
+}
+
+.smallearth {
+    background-image: url('img/smallearth.svg');
+}
+
+.mars {
+    background-image: url('img/mars.svg');
+}
+
+.moon {
+    background-image: url('img/moon.svg');
+}
+
+h1 {
+    text-align: left, right;
+    color:  white;
+}
