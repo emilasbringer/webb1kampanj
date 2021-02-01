@@ -10,6 +10,9 @@ body {
     width: 3200px;
     height: 3200px;
     background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    right: -10px;
 }
 
 .smallearth {
