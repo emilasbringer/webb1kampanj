@@ -1,33 +1,35 @@
-body {
-    background-image: url('img/backgroundmain.svg');
-    background-size: cover;
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+body { 
+    background-color: rgb(20,33,61);
+    height: 3840px;
+    font-family: 'Exo 2', sans-serif;
     margin: 0px;
-    height: 5000px;
   }
+  
+.page1 {
+    width: 100%;
+    height: 850px;
+    background-image: url('img/bigearth.png'),url('img/mars.png'),url('img/moon.png'),url('img/alienplanet.png');
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: -600px -900px, bottom right, 400px 500px, 950px 20px;
+}
 
-.bigearth {
-    background-image: url('img/bigearth.svg');
-    width: 3200px;
-    height: 3200px;
-    background-repeat: no-repeat;
+.page2 {
+    width: 100%;
+    height: 1080px;
+}
+
+h1{
     position: absolute;
-    top: 0px;
-    right: -10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 4rem;
 }
 
-.smallearth {
-    background-image: url('img/smallearth.svg');
-}
-
-.mars {
-    background-image: url('img/mars.svg');
-}
-
-.moon {
-    background-image: url('img/moon.svg');
-}
-
-h1 {
-    text-align: left, right;
-    color:  white;
+.breadtext{
+    color: white;
+    text-align: center;
 }
