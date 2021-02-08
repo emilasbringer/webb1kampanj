@@ -29,7 +29,22 @@ h1{
     font-size: 4rem;
 }
 
+h2 {
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
 .breadtext{
     color: white;
     text-align: center;
+    width: 1200px;
+    margin: auto;
+}
+
+.titletext {
+    position: relative;
+    height: 150px;
+    width: 1200px;
+    margin: auto;
+    padding-top: 50px;
 }
