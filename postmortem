@@ -1,0 +1,30 @@
+Kampanj postmortem
+
+Emil Åsbringer 2021-02-15
+
+Jag har utvecklat en hemsida för en rymd-kampanj med syftet att inspirera andra om rymden och att människor måste bli en multi-planetiska om vi ska överleva.
+Jag har planerat hemsidan i figma som grupp och kodat den individuellt i html och css. Min kampanj hade syftet att stoppa människor från att kunna utrota sig själva och
+väcka intresse för rymden.
+
+Första steget av projektet var att planera det med min grupp. Vi skapade ett dokument där vi planerade en slogan, titel etc. Vi använde oss av ett google doc för att det
+är det enklaste och snabbaste sättet att strukturera sina idéer på ett smart sätt. När vi var klar med planeringen så påbörjade vi en sketch i online-programmet figma. Vi 
+använde oss av figma eftersom det är ett lätt och användarvänligt program som tillät oss att snabbt sammanställa en grovskiss för hur vår hemsida kommer att se ut. Efter
+vi hade avslutat figmaskissen så påbörjade vi vårat individuella arbete på våra hemsidor och använde oss av figma för att inspireras och för att ha något att jobba efter.
+När hemsidan var klar så gjorde vi en redovisning av våra hemsidor och analyserade vad vi gjorde bra och vad som kunde ha gjorts bättre. 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+ 
+Den kreativa friheten vi fick angående projektet gjorde så att man kunde välja ett ämne som man var intresserad av vilket hade en positiv påverkan min vilja att arbeta på 
+uppgiften. Detta gjorde det också lättare att lära sig nya koncept och idèer eftersom det jag lärde mig kunde appliceras till arbete som jag tycker är intressant.
+
+
+Något som gick mindre bra med detta projekt var att strukturera sin hemsida på ett bra sätt innan man började arbeta för att underlätta strukturen på arbetet. Man borde 
+planera hur man kommer koda hemsidan och inte bara hur slutprodukten ska se ut. Jag märkte också under projekets gång att jag saknar kunskap inom css och html vilket
+saktade ner mitt arbete då jag var tvungen att lära mig många nya koncept innan jag kunde applicera det till min hemsida. Denna negativa erfarenhet kommer dock sakta försvinna
+ju fler arbeten jag gör med html/css eftersom jag lär mig med varje projekt som jag utför.
+
+Sammanfattningsvis så tycker jag att det här projektet var väldigt lärorikt och gav mig positiva erfarenheter innom html/css. Jag lärde mig många syntax inom mestadels css
+och jag fick en djupare förståelse för tankesättet man ska ha när man utvecklar en hemsida. Jag är relativt nöjd med min slutprodukt men den har några vassa kanter som har
+möjlighet att förbättras. Till exempel skalningen av hemsidan på olika enheter och navigationen till olika delar av hemsidan. Om jag ska fortsätta arbeta på projektet skulle
+jag lägga mest krut på skalningen innan jag fortsätter arbetet på andra aspekter av webplatsen.
