@@ -53,6 +53,7 @@ header {
 }
 
 .footer {
+    font-family: 'Exo 2', sans-serif;
     display: block;
     background-color: rgb(42, 43, 46);
     color: white;
